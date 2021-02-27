@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds">
+        <attr name="text_color_in_item" format="color"/>
+        <attr name="bottom_nav" format="color"/>
+    </declare-styleable>
+</resources>

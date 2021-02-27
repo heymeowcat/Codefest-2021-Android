@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "1071288222627",
+    "project_id": "codefestandroid",
+    "storage_bucket": "codefestandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071288222627:android:e8dc03d6e23345c7721016",
+        "android_client_info": {
+          "package_name": "com.heymeowcat.codefest2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071288222627-150clnoio7hsfdep6asqaf1ks5f9gdie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heymeowcat.codefest2021",
+            "certificate_hash": "5a2fc7a2a09fe0265e1f32ddb60a7d3b1e282d7d"
+          }
+        },
+        {
+          "client_id": "1071288222627-o3dqg0jnd401t7csv74bkfaqbs4o2m29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaTDvqeXLkFeUl3jznEX4caYhnfN_aFNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071288222627-o3dqg0jnd401t7csv74bkfaqbs4o2m29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071288222627:android:4ea02ac7bf7d99c0721016",
+        "android_client_info": {
+          "package_name": "com.heymeowcat.codefest2021androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071288222627-33h3jeo4020fc5asmnaadu6v25eiteuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heymeowcat.codefest2021androidproject",
+            "certificate_hash": "5a2fc7a2a09fe0265e1f32ddb60a7d3b1e282d7d"
+          }
+        },
+        {
+          "client_id": "1071288222627-o3dqg0jnd401t7csv74bkfaqbs4o2m29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaTDvqeXLkFeUl3jznEX4caYhnfN_aFNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071288222627-o3dqg0jnd401t7csv74bkfaqbs4o2m29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071288222627:android:676fce4d22fabba5721016",
+        "android_client_info": {
+          "package_name": "com.heymeowcat.codefest2021riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071288222627-1g85pjbefdng50nfs8r3s4ohqsuvg33c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heymeowcat.codefest2021riderapp",
+            "certificate_hash": "5a2fc7a2a09fe0265e1f32ddb60a7d3b1e282d7d"
+          }
+        },
+        {
+          "client_id": "1071288222627-o3dqg0jnd401t7csv74bkfaqbs4o2m29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaTDvqeXLkFeUl3jznEX4caYhnfN_aFNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071288222627-o3dqg0jnd401t7csv74bkfaqbs4o2m29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
